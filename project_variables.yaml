@@ -1,0 +1,11 @@
+'job_details':
+  # all the job details
+  "generic_job_details": ["2023-11-17", "Generic Job", "Generic Company", "Generic Type", 5, 70000, 3.5]
+  "stem_job_details": ["2023-11-16", "Engineer", "TechCorp", 3, 85000, 4.0]
+  "nonstem_job_details": ["2023-11-15", "Manager", "RetailCorp", 7, 90000, 2.8]
+  "apple_job_details": ["2023-11-14", "Software Developer", 2, 120000, 4.5]
+  "siemens_job_details": ["2023-11-13", "Electrical Engineer", 4, 95000, 3.8]
+  "boeing_job_details": ["2023-11-12", "Analyst", 6, 87000, 3.2]
+
+"output_csv_loc": './outputs/test_job_applications.csv'
+"input_data_path": './data/JobApplicationpkl638200306.dat'
